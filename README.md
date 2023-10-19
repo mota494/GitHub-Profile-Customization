@@ -1,6 +1,6 @@
 <div align="center">
   
-# READMESheet
+# README Sheet
 ### An easy and visual way to learn markdown text
   
 </div>
