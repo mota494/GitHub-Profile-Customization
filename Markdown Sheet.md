@@ -37,7 +37,7 @@ Links are also a super sweet way to redirect people to pdf, maybe some tutorials
 
 <a href="YOUR LINK">This way you're using html syntax</a>
 
-[And with this you're using markdown syntax](your link)
+[And with this you're using markdown syntax](https://www.42porto.com/o-que-e/)
 
 <a href="#end">And with this you can create a link to a segment of this file making possible to create an index</a>
 
