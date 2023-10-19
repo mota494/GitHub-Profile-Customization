@@ -13,7 +13,7 @@ File|Purpose
 --|--
 **[Markdown Sheet](https://github.com/mota494/READMESheet/blob/main/Markdown%20Sheet.md)**|.md file with a bunch of useful syntax to help you better understand how markdown works
 **[Template_projects](https://github.com/mota494/READMESheet/blob/main/Template_projects.md)**|A super simple README template that i normally use in my own projects
-**[Exemple_projects](https://github.com/mota494/READMESheet/blob/main/Exemple_projects.md)**|An even simpler and quick README just to summarize a project in few lines
+**[Exemple_projects](https://github.com/mota494/READMESheet/blob/main/Exemple_projects.md)**|An even simpler and quick README just to summarize a project in a few lines
 
 </div>
 
