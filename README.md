@@ -12,8 +12,8 @@
 File|Purpose
 --|--
 **Markdown Sheet**|.md file with a bunch of useful syntax to help you better understand how markdown works
-**README_Projects**|A super simple README template that i normally use in my own projects
-**README_Projects_exemple**|An even simpler and quick README just to summarize a project in few lines
+**Template_projects**|A super simple README template that i normally use in my own projects
+**RExemple_projects**|An even simpler and quick README just to summarize a project in few lines
 
 </div>
 
