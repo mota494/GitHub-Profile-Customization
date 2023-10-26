@@ -1,7 +1,6 @@
 <div align="center">
-  
-# README Sheet
-### An easy and visual way to learn markdown text
+
+# Your one stop shop for github customization
   
 </div>
 
