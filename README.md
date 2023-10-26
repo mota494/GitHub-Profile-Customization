@@ -48,7 +48,7 @@ Icon|Name|Direct Link
 <img width="70px" height="70px" src="https://i.imgur.com/rrEA8Op.png">| Apache NetBeans black and white icon | `https://i.imgur.com/rrEA8Op.png`
 <img width="70px" height="70px" src="https://i.imgur.com/kTFUfwF.png">| Apache NetBeans default icon | `https://i.imgur.com/kTFUfwF.png`
 <img width="70px" height="70px" src="https://i.imgur.com/6W6Lr8n.png">| MySql Database black and white icon | `https://i.imgur.com/6W6Lr8n.png`
-<img width="70px" height="70px" src="https://i.imgur.com/6W6Lr8n.png">| MySql Database default icon | `https://i.imgur.com/6W6Lr8n.png`
+<img width="70px" height="70px" src="https://i.imgur.com/UOB6MW0.png">| MySql Database default icon | `https://i.imgur.com/UOB6MW0.png`
 <img width="70px" height="70px" src="https://i.imgur.com/cA9WepO.png">| JetBrains C Lion black and white icon | `https://i.imgur.com/cA9WepO.png`
 <img width="70px" height="70px" src="https://i.imgur.com/FEabgH9.png">| JetBrains C Lion default icon | `https://i.imgur.com/FEabgH9.png`
 <img width="70px" height="70px" src="https://i.imgur.com/2HMpK2V.png">| NPM black and white icon | `https://i.imgur.com/2HMpK2V.png`
