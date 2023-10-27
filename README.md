@@ -1,6 +1,6 @@
 <div align="center">
 
-# Your one stop shop for github customization
+# Your one stop shop for GitHub customization
   
 </div>
 
