@@ -20,7 +20,7 @@ File|Description
 
 To use this icons in your profile i recommend you doing like this:
 ```html
-<img width="70px" height="70px" src="DIRECT LINK OF THE ICON" alt="NAME OF THE PROGRAM/LANGUAGE">
+<img width="70px" src="DIRECT LINK OF THE ICON" alt="NAME OF THE PROGRAM/LANGUAGE">
 ```
 
 <b>Program icons</b>
