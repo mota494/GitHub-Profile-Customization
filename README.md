@@ -18,7 +18,7 @@ File|Description
 
 # GitHub icon pack
 
-To use this icons in your profile i recommend you doing like this:
+To use this icons in your profile i recommend you doing it like this:
 ```html
 <img width="70px" src="DIRECT LINK OF THE ICON" alt="NAME OF THE PROGRAM/LANGUAGE">
 ```
