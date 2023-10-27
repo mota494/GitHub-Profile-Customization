@@ -27,6 +27,7 @@ To use this icons in your profile i recommend you doing it like this:
 
 Icon|Name|Direct Link
 --|--|--
+<img width="70px" src="https://i.imgur.com/JTYn7ap.png">| Microsoft Access black and white icon | `https://i.imgur.com/JTYn7ap.png` 
 <img width="70px" src="https://i.imgur.com/Hpeneka.png">| Microsoft Access default icon | `https://i.imgur.com/Hpeneka.png`
 <img width="70px" src="https://i.imgur.com/EPH4XUN.png">| Android Studio black and white icon | `https://i.imgur.com/EPH4XUN.png`
 <img width="70px" src="https://i.imgur.com/EZXnPiY.png">| Android Studio default icon | `https://i.imgur.com/EZXnPiY.png`
