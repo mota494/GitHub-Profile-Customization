@@ -57,6 +57,7 @@ Icon|Name|Direct Link
 <img width="70px" src="https://i.imgur.com/Ephyrfp.png">| JetBrains WebStorm default icon | `https://i.imgur.com/Ephyrfp.png`
 <img width="70px" src="https://i.imgur.com/27hqK6l.png">| Amazon Web Services black and white icon | `https://i.imgur.com/27hqK6l.png`
 <img width="70px" src="https://i.imgur.com/mzdwxFx.png">| Amazon Web Services default icon | `https://i.imgur.com/mzdwxFx.png`
+<img width="70px" src="https://i.imgur.com/GyCZtbT.png">| Linux default icon | `https://i.imgur.com/GyCZtbT.png`
 
 ___
 <b>Programming languages icons</b>
