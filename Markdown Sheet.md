@@ -75,6 +75,18 @@ There's a bunch of different ways to create lists
     - Indented item
 - Fourth item
 ---
+# Organized items through a folder like system
+
+<details>
+	<summary><b>Here you can add a custom name</b></summary>
+	<h1>You can write or use any markdown systax in here</h1>
+	<details>
+		<summary>Test 2</summary>
+		You can also add a "subfolder"
+	</details>
+</details>
+
+___
 
 You can also create tables like this
 
@@ -101,15 +113,6 @@ WIth shields.io you can create a bunch of different badges with different
 <a href="https://twitter.com/?lang=pt">![Static Badge](https://img.shields.io/badge/Twitter-green?style=flat-square&logo=twitter&logoColor=%23ffffff&color=%231D9BF0)</a>
 
 ___
-# Organized items through a folder like system
 
-<details>
-	<summary><b>Here you can add a custom name</b></summary>
-	<h1>You can write or use any markdown systax in here</h1>
-	<details>
-		<summary>Test 2</summary>
-		You can also add a "subfolder"
-	</details>
-</details>
 
 # end
