@@ -58,33 +58,33 @@ To use this icons in your profile i recommend you doing it like this:
   <img width="70px" src="https://i.imgur.com/27hqK6l.png">| Amazon Web Services black and white icon | `https://i.imgur.com/27hqK6l.png`
   <img width="70px" src="https://i.imgur.com/mzdwxFx.png">| Amazon Web Services default icon | `https://i.imgur.com/mzdwxFx.png`
   <img width="70px" src="https://i.imgur.com/aisjvvy.png">| Git black and white icon | `https://i.imgur.com/aisjvvy.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/m8rKYUZ.png">| Git default icon | `https://i.imgur.com/m8rKYUZ.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/tuJWm36.png">| GitHub black and white icon | `https://i.imgur.com/tuJWm36.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/t2ttPzu.png">| GitHub default icon | `https://i.imgur.com/t2ttPzu.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/HvIhhz1.png">| Adobe After Effects black and white icon | `https://i.imgur.com/HvIhhz1.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/S8Momz6.png">| Adobe After Effects default icon | `https://i.imgur.com/S8Momz6.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/twNOx4d.png">| Microsoft Excel black and white icon | `https://i.imgur.com/twNOx4d.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/rfwdUpx.png">| Microsoft Excel default icon | `https://i.imgur.com/rfwdUpx.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/o5XvpaK.png">| Microsoft Word black and white icon | `https://i.imgur.com/o5XvpaK.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/NErWFc1.png">| Microsoft Word default icon | `https://i.imgur.com/NErWFc1.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/76oKTou.png">| Microsfot Power Point black and white icon | `https://i.imgur.com/76oKTou.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/jW3EmL9.png">| Microsoft Power Point default icon | `https://i.imgur.com/jW3EmL9.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/wRQdTRI.png">| Vi improved default icon | `https://i.imgur.com/wRQdTRI.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/JfgNIeS.png">| Vi improved black and white icon | `https://i.imgur.com/JfgNIeS.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/0SsueG5.png">| NeoVim black and white icon | `https://i.imgur.com/0SsueG5.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/uxnJaQz.png">| NeoVim default icon | `https://i.imgur.com/uxnJaQz.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/2REEObO.png">| Oracle PlSql black and white icon | `https://i.imgur.com/2REEObO.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/ty9azno.png">| Oracle PlSql default icon | `https://i.imgur.com/ty9azno.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/RmTayrE.png">| Mongo DB black and white icon | `https://i.imgur.com/RmTayrE.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/TeIh4Rv.png">| Mongo DB default icon | `https://i.imgur.com/TeIh4Rv.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/zTO916m.png">| Bash black and white icon | `https://i.imgur.com/zTO916m.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/z9shluT.png">| Bash default icon | `https://i.imgur.com/z9shluT.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/vxjIMbz.png">| Emacs black and white icon | `https://i.imgur.com/vxjIMbz.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/SwX9QhU.png">| Emacs default icon | `https://i.imgur.com/SwX9QhU.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/SOfbqNL.png">| Blender black and white icon | `https://i.imgur.com/SOfbqNL.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/GnGNHKw.png">| Blender default icon | `https://i.imgur.com/GnGNHKw.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/S3AJlUl.png">| Linux black and white icon | `https://i.imgur.com/S3AJlUl.png`
-  <img width="70px" height="70px" src="https://i.imgur.com/7DkX1WS.png">| Linux default icon | `https://i.imgur.com/7DkX1WS.png`
+  <img width="70px" src="https://i.imgur.com/m8rKYUZ.png">| Git default icon | `https://i.imgur.com/m8rKYUZ.png`
+  <img width="70px" src="https://i.imgur.com/tuJWm36.png">| GitHub black and white icon | `https://i.imgur.com/tuJWm36.png`
+  <img width="70px" src="https://i.imgur.com/t2ttPzu.png">| GitHub default icon | `https://i.imgur.com/t2ttPzu.png`
+  <img width="70px" src="https://i.imgur.com/HvIhhz1.png">| Adobe After Effects black and white icon | `https://i.imgur.com/HvIhhz1.png`
+  <img width="70px" src="https://i.imgur.com/S8Momz6.png">| Adobe After Effects default icon | `https://i.imgur.com/S8Momz6.png`
+  <img width="70px" src="https://i.imgur.com/twNOx4d.png">| Microsoft Excel black and white icon | `https://i.imgur.com/twNOx4d.png`
+  <img width="70px" src="https://i.imgur.com/rfwdUpx.png">| Microsoft Excel default icon | `https://i.imgur.com/rfwdUpx.png`
+  <img width="70px" src="https://i.imgur.com/o5XvpaK.png">| Microsoft Word black and white icon | `https://i.imgur.com/o5XvpaK.png`
+  <img width="70px" src="https://i.imgur.com/NErWFc1.png">| Microsoft Word default icon | `https://i.imgur.com/NErWFc1.png`
+  <img width="70px" src="https://i.imgur.com/76oKTou.png">| Microsfot Power Point black and white icon | `https://i.imgur.com/76oKTou.png`
+  <img width="70px" src="https://i.imgur.com/jW3EmL9.png">| Microsoft Power Point default icon | `https://i.imgur.com/jW3EmL9.png`
+  <img width="70px" src="https://i.imgur.com/wRQdTRI.png">| Vi improved default icon | `https://i.imgur.com/wRQdTRI.png`
+  <img width="70px" src="https://i.imgur.com/JfgNIeS.png">| Vi improved black and white icon | `https://i.imgur.com/JfgNIeS.png`
+  <img width="70px" src="https://i.imgur.com/0SsueG5.png">| NeoVim black and white icon | `https://i.imgur.com/0SsueG5.png`
+  <img width="70px" src="https://i.imgur.com/uxnJaQz.png">| NeoVim default icon | `https://i.imgur.com/uxnJaQz.png`
+  <img width="70px" src="https://i.imgur.com/2REEObO.png">| Oracle PlSql black and white icon | `https://i.imgur.com/2REEObO.png`
+  <img width="70px" src="https://i.imgur.com/ty9azno.png">| Oracle PlSql default icon | `https://i.imgur.com/ty9azno.png`
+  <img width="70px" src="https://i.imgur.com/RmTayrE.png">| Mongo DB black and white icon | `https://i.imgur.com/RmTayrE.png`
+  <img width="70px" src="https://i.imgur.com/TeIh4Rv.png">| Mongo DB default icon | `https://i.imgur.com/TeIh4Rv.png`
+  <img width="70px" src="https://i.imgur.com/zTO916m.png">| Bash black and white icon | `https://i.imgur.com/zTO916m.png`
+  <img width="70px" src="https://i.imgur.com/z9shluT.png">| Bash default icon | `https://i.imgur.com/z9shluT.png`
+  <img width="70px" src="https://i.imgur.com/vxjIMbz.png">| Emacs black and white icon | `https://i.imgur.com/vxjIMbz.png`
+  <img width="70px" src="https://i.imgur.com/SwX9QhU.png">| Emacs default icon | `https://i.imgur.com/SwX9QhU.png`
+  <img width="70px" src="https://i.imgur.com/SOfbqNL.png">| Blender black and white icon | `https://i.imgur.com/SOfbqNL.png`
+  <img width="70px" src="https://i.imgur.com/GnGNHKw.png">| Blender default icon | `https://i.imgur.com/GnGNHKw.png`
+  <img width="70px" src="https://i.imgur.com/S3AJlUl.png">| Linux black and white icon | `https://i.imgur.com/S3AJlUl.png`
+  <img width="70px" src="https://i.imgur.com/7DkX1WS.png">| Linux default icon | `https://i.imgur.com/7DkX1WS.png`
 <!--<img width="70px" height="70px" src="">|  | `` -->
 </details>
 
