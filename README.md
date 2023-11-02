@@ -75,8 +75,8 @@ To use this icons in your profile i recommend you doing it like this:
   <img width="70px" src="https://i.imgur.com/uxnJaQz.png">| NeoVim default icon | `https://i.imgur.com/uxnJaQz.png`
   <img width="70px" src="https://i.imgur.com/2REEObO.png">| Oracle PlSql black and white icon | `https://i.imgur.com/2REEObO.png`
   <img width="70px" src="https://i.imgur.com/ty9azno.png">| Oracle PlSql default icon | `https://i.imgur.com/ty9azno.png`
-  <img width="70px" src="https://i.imgur.com/RmTayrE.png">| Mongo DB black and white icon | `https://i.imgur.com/RmTayrE.png`
-  <img width="70px" src="https://i.imgur.com/TeIh4Rv.png">| Mongo DB default icon | `https://i.imgur.com/TeIh4Rv.png`
+  <img width="70px" src="https://i.imgur.com/JBS7KlT.png">| Mongo DB black and white icon | `https://i.imgur.com/JBS7KlT.png`
+  <img width="70px" src="https://i.imgur.com/KvEq2hG.png">| Mongo DB default icon | `https://i.imgur.com/KvEq2hG.png`
   <img width="70px" src="https://i.imgur.com/zTO916m.png">| Bash black and white icon | `https://i.imgur.com/zTO916m.png`
   <img width="70px" src="https://i.imgur.com/z9shluT.png">| Bash default icon | `https://i.imgur.com/z9shluT.png`
   <img width="70px" src="https://i.imgur.com/vxjIMbz.png">| Emacs black and white icon | `https://i.imgur.com/vxjIMbz.png`
