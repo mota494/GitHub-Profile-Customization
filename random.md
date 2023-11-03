@@ -24,33 +24,45 @@ Mermaid is a simple and easy tool to learn that allows you to implement diagrams
 
 <ol>
   <li><a href="#flowchart">Flowchart</a></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li><a href="#sequence">Sequence Diagram</a></li>
+  <li><a href="#gantt">Gantt Diagram</a></li>
+  <li><a href="#class">Class Diagram</a></li>
+  <li><a href="#git">Git graph</a></li>
+  <li><a href="#user_journey">Uer Journey Diagram</a></li>
+  <li><a href="#quadrant">Quadrant chart</a></li>
+  <li><a href="#xy">XY Chart/a></li>
 </ol>
 
-### Flowchart
+<div align="center">
+  ### Flowchart 
+</div>
 
-```mermaid
-gantt
-dateFormat  YYYY-MM-DD
-title Adding GANTT diagram to mermaid
-excludes weekdays 2014-01-10
+<div align="center">
+  ### Sequence 
+</div>
 
-section A section
-Completed task            :done,    des1, 2014-01-06,2014-01-08
-Active task               :active,  des2, 2014-01-09, 3d
-Future task               :         des3, after des2, 5d
-Future task2               :         des4, after des3, 5d
 
-section B section
-Completed task            :done,    des1, 2014-01-06,2014-01-08
-Active task               :active,  des2, 2014-01-09, 3d
-Future task               :         des3, after des2, 5d
-Future task2               :         des4, after des3, 5d
-```
+<div align="center">
+  ### Gantt 
+</div>
+
+<div align="center">
+  ### Class 
+</div>
+
+<div align="center">
+  ### Git 
+</div>
+
+<div align="center">
+  ### User Journey 
+</div>
+
+<div align="center">
+  ### Quadrant 
+</div>
+
+
+<div align="center">
+  ### XY 
+</div>
