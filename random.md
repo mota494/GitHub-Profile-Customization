@@ -30,39 +30,55 @@ Mermaid is a simple and easy tool to learn that allows you to implement diagrams
   <li><a href="#git">Git graph</a></li>
   <li><a href="#user_journey">Uer Journey Diagram</a></li>
   <li><a href="#quadrant">Quadrant chart</a></li>
-  <li><a href="#xy">XY Chart/a></li>
+  <li><a href="#xy">XY Chart</a></li>
 </ol>
 
 <div align="center">
+  
   ### Flowchart 
+  
 </div>
 
 <div align="center">
+  
   ### Sequence 
+  
 </div>
 
 
 <div align="center">
+  
   ### Gantt 
+  
 </div>
 
 <div align="center">
+  
   ### Class 
+  
 </div>
 
 <div align="center">
+  
   ### Git 
+  
 </div>
 
 <div align="center">
+  
   ### User Journey 
+  
 </div>
 
 <div align="center">
+  
   ### Quadrant 
+  
 </div>
 
 
 <div align="center">
+  
   ### XY 
+  
 </div>
