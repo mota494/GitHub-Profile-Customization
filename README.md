@@ -21,6 +21,10 @@ File|Description
 To use this icons in your profile i recommend you doing it like this:
 ```html
 <img width="70px" src="DIRECT LINK OF THE ICON" alt="NAME OF THE PROGRAM/LANGUAGE">
+
+if you want to add a link to the image do it like this
+
+<a href="YOUR LINK"><img width="70px" src="DIRECT LINK OF THE ICON" alt="NAME OF THE PROGRAM/LANGUAGE"></a>
 ```
 <details>
   <summary><h2>Program icons</h2></summary>
